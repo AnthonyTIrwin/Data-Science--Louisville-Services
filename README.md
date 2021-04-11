@@ -11,11 +11,19 @@ The files come from:
 
 # **To Run:**
 
-### Clone github repositry : https://github.com/AnthonyTIrwin/PythonII.git
-### Ensure that you have the juypter notebook installed, if not please get it here: https://www.anaconda.com/products/individual
+### Clone github repositry : 
+- https://github.com/AnthonyTIrwin/PythonII.git
+### Ensure that you have the juypter notebook installed, if not please get it here: 
+- https://www.anaconda.com/products/individual
 ### Ensure that the following files are in the same directory:
 
 - Weather_and_Demand_for_Municipal_Services.ipynb
 - citizen311data_2011_0.csv
 - lou_map.png
 - 2011_TempData.csv
+
+Launch jupyter notebook and then open the file **"Weather_and_Demand_for_Municipal_Services.ipynb"**.  The project file should then be ready to view. 
+
+# **Conclusion**
+
+Attention was placed on Metro District 5, which was the district with the most service calls.  In Metro District 5 the most common request was in regards to a property ownder not maintaining the lawn, it was decided that this would be seasonal, since grass tends to go dormant in the Louisivlle region during the wintertime, so instead junk car violations were taken as the facor for comparison to the amount of precipitation. 
