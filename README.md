@@ -26,4 +26,4 @@ Launch jupyter notebook and then open the file **"Weather_and_Demand_for_Municip
 
 # **Conclusion**
 
-Attention was placed on Metro District 5, which was the district with the most service calls.  In Metro District 5 the most common request was in regards to a property ownder not maintaining the lawn.   There was a weak to nonexistent correlation (P = .038) between the maximum daily temperature and the frequency of calls made to Louiville Metro Services.  This suggests that other factors should be considered, like comparison between districts, and over the course of several years. 
+Attention was placed on Metro District 5, which was the district with the most service calls.  In Metro District 5 the most common request was in regards to a property ownder not maintaining the lawn.   There was a weak to nonexistent correlation (P = .038) between the maximum daily temperature and the frequency of calls made to Louiville Metro Services, so the answer is inconclusive.  Although there isn't a strong correlation, other factors should be considered for future analysis, like comparison between districts, and over the course of several years. 
